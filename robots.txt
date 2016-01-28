@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /inaccurate_content/
+Disallow: /lookup/
